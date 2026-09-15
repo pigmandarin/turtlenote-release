@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "url": "https://flow.turtle-mind.com/30",
-  "notes": "TurtleNote v1.0.0 첫 공개 버전",
-  "download": "https://github.com/pigmandarin/turtlenote-release/releases/download/v1.0.0/TurtleNote_v1.0.0_Windows.zip"
+  "notes": "Windows 실행 안정성 개선",
+  "download": "https://github.com/pigmandarin/turtlenote-release/releases/download/v1.0.1/TurtleNote_v1.0.1_Windows.zip"
 }
