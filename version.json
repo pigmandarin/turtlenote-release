@@ -1,6 +1,6 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "url": "https://flow.turtle-mind.com/30",
-  "notes": "안정적으로 전사가 동작했던 기존 환경을 기준으로 재구성한 무료 공개 버전",
-  "download": "https://github.com/pigmandarin/turtlenote-release/releases/download/v1.0.2/TurtleNote_v1.0.2_Windows.zip"
+  "notes": "Windows PC 간 호환성을 개선한 Qt/PySide6 기반 안정화 버전",
+  "download": "https://github.com/pigmandarin/turtlenote-release/releases/download/v1.0.3/TurtleNote_v1.0.3_Windows.zip"
 }
