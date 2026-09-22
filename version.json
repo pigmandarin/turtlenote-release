@@ -1,6 +1,6 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.4",
   "url": "https://flow.turtle-mind.com/30",
-  "notes": "Windows PC 간 호환성을 개선한 Qt/PySide6 기반 안정화 버전",
-  "download": "https://github.com/pigmandarin/turtlenote-release/releases/download/v1.0.3/TurtleNote_v1.0.3_Windows.zip"
+  "notes": "m4a 재생 문제와 작업파일 생성 불가 위치 안내를 개선한 호환성 업데이트",
+  "download": "https://github.com/pigmandarin/turtlenote-release/releases/download/v1.0.4/TurtleNote_v1.0.4_Windows.zip"
 }
